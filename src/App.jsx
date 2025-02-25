@@ -9,7 +9,7 @@ import Listing_categories from "./components/Listing_categories";
 import Listing_specific_page from "./components/Listing_specific_page";
 import Pricing from "./components/Pricing";
 import Listing_page from "./components/Listing_page";
-import PropertyForm from "./components/Propertyform";
+import PropertyForm from "./components/PropertyForm";
 import BlogForm from "./components/BlogForm";
 import ProductList from "./components/ProductList";
 import Login from "./components/Login";
