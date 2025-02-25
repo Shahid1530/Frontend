@@ -15,7 +15,7 @@ import ProductList from "./components/ProductList";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import OtpVerification from "./components/OtpVerification";
-import ProtectedRoute from "./components/Protectedroute";
+import ProtectedRoute from "./components/ProtectedRoute";
 import './App.css'
 import BlogList from "./components/BlogList";
 import ContactsList from "./components/ContactsList";
